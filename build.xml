@@ -19,7 +19,7 @@
   </target>
 
   <!-- builds the server extension jar -->
-  <target name="jar" depends="compile,zimbra-jar" description="Creates the jar file" />
+  <target name="jar" depends="compile,zextras-jar" description="Creates the jar file" />
 
   <!-- deploy to the server extension directory -->
   <target name="deploy" depends="jar">
