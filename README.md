@@ -8,18 +8,11 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zextras.svg?style=social&label=Follow%20%40zextras)](https://twitter.com/zextras)
 
 Server and extensions for GraphQL database.
-<!--
-SPDX-FileCopyrightText: 2022 Zextras <https://www.zextras.com>
 
-SPDX-License-Identifier: AGPL-3.0-only
--->
-
-# `carbonio-gql`> Carbonio GraphQL Service
+## Carbonio GraphQL Service
 
 This service provides a GraphQL interface for users to perform operations on the
 Carbonio platform.
-
----
 
 ## Installation
 
